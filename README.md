@@ -2,13 +2,14 @@
 
 A Machine Learning web application built with **Streamlit** that predicts the risk of heart disease based on patient medical parameters. The app also generates visual explanations using **SHAP** and downloadable PDF reports.
 
+<img width="897" height="581" alt="heart pic 5 pdf created" src="https://github.com/user-attachments/assets/3b1cedfb-4f62-4531-a2bf-96643d4d66d1" />
+
 ---
 
 ## 🚀 Live Demo
 "https://heart-ai-predictor-ayu.streamlit.app/"
 
 <img width="1911" height="1065" alt="heart ai predictor" src="https://github.com/user-attachments/assets/2f0315b8-5735-40a2-89fa-7ef89c73aaef" />
-<img width="1861" height="846" alt="heart pic 1" src="https://github.com/user-attachments/assets/4df34b32-4866-4d95-ad2d-26f0911f660d" />
 
 
 ---

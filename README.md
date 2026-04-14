@@ -5,7 +5,10 @@ A Machine Learning web application built with **Streamlit** that predicts the ri
 ---
 
 ## 🚀 Live Demo
-If deployed on Streamlit Cloud:
+"https://heart-ai-predictor-ayu.streamlit.app/"
+
+<img width="1911" height="1065" alt="heart ai predictor" src="https://github.com/user-attachments/assets/2f0315b8-5735-40a2-89fa-7ef89c73aaef" />
+<img width="1861" height="846" alt="heart pic 1" src="https://github.com/user-attachments/assets/4df34b32-4866-4d95-ad2d-26f0911f660d" />
 
 
 ---

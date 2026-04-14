@@ -68,12 +68,5 @@ Prediction Result
 Risk Level
 Model Explanation Summary
 
-✨ Future Improvements
-🔐 User authentication system
-📡 API integration for hospital systems
-📱 Mobile responsive UI
-☁️ Cloud database storage
-📈 Advanced model tuning
-👨‍💻 Developer
 
 Built with ❤️ by Ayushi
